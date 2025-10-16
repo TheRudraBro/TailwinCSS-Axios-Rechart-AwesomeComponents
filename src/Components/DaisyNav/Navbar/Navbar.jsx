@@ -31,11 +31,11 @@ const navigationData = [
 const Navbar = () => {
     return (
         <nav className='max-w-[1200px] mx-auto p-10'>
-            <ul className='flex mr-10'>
+            {/* <ul className='flex mr-10'>
                 {
                 navigationData.map(route => <Link key={route.id} route={route}  />)
             }
-            </ul>
+            </ul> */}
             {/* <ul className='flex mr-10'>
               {  navigationData.map(route =>  <li className='mr-10'>
                 <a href={route.path}>{route.name}</a>

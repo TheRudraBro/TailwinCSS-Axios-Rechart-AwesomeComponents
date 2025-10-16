@@ -12,7 +12,7 @@ function App() {
    <header>
     {/* <Link></Link> */}
     <Navbar></Navbar>
-    <DaisyNav></DaisyNav>
+    {/* <DaisyNav></DaisyNav> */}
     
    </header>
    <main>

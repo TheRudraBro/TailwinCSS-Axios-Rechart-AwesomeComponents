@@ -1,0 +1,73 @@
+
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 1200,
+    "duration": "per month",
+    "description": "Perfect for beginners who want access to essential gym equipment.",
+    "features": [
+      "Access to all basic gym equipment",
+      "Free fitness assessment",
+      "Locker room access",
+      "1 free guest pass per month",
+      "Access during staffed hours only",
+      "Free Wi-Fi",
+      "Drinking water available",
+      "Basic nutrition tips"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 2000,
+    "duration": "per month",
+    "description": "Ideal for regular gym-goers who want classes and trainer support.",
+    "features": [
+      "All Basic Plan benefits",
+      "Access to all fitness and yoga classes",
+      "Personal trainer (2 sessions/month)",
+      "Unlimited locker use",
+      "Diet and workout plan guidance",
+      "Body composition analysis",
+      "Access to stretching zone",
+      "Priority access to new equipment"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 3500,
+    "duration": "per month",
+    "description": "For serious fitness enthusiasts who want full premium access.",
+    "features": [
+      "All Standard Plan benefits",
+      "Unlimited personal training sessions",
+      "Priority class booking",
+      "Sauna and steam room access",
+      "Custom diet chart with weekly updates",
+      "Access to VIP lounge",
+      "Free gym merchandise",
+      "24/7 gym access",
+      "Monthly progress report",
+      "Complimentary massage once a month"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Annual Elite Plan",
+    "price": 36000,
+    "duration": "per year",
+    "description": "Best value plan for dedicated members who want year-round premium benefits.",
+    "features": [
+      "All Premium Plan benefits",
+      "2 complimentary spa sessions per year",
+      "Exclusive fitness workshops",
+      "Nutritionist consultation every month",
+      "Invite-only fitness challenges",
+      "Personal locker with name tag",
+      "Discounts on partner health stores",
+      "Free entry to gym events and competitions"
+    ]
+  }
+]

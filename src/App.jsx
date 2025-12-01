@@ -20,12 +20,12 @@ function App() {
     
    </header>
    <main>
- <Suspense fallback={<span className="loading loading-dots loading-xl"></span>}>
-     <PricingOptions pricingPromise={pricingPromise}></PricingOptions>
- </Suspense>
+        <Suspense fallback={<span className="loading loading-spinner loading-lg"></span>}>
+          <PricingOptions pricingPromise={pricingPromise}></PricingOptions>
+        </Suspense>
    </main>
    <footer>
-     
+     <h1>Copyright © 2024 | All rights reserved</h1>
    </footer>
 
     </>
